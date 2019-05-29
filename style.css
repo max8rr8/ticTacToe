@@ -1,0 +1,57 @@
+#buttons {
+  margin: 0 calc(50% - 200px) 0 calc(50% - 200px);
+  width: 400px;
+}
+
+#starter {
+  margin: 0 calc(50vw - 200px) 0 calc(50vw - 200px);
+  width: 400px;
+}
+
+#play {
+  text-align: center;
+}
+
+#field {
+  display: inline;
+}
+
+#win {
+  margin: 20% 0 0 0;
+  font-size: 32pt;
+  text-align: center;
+}
+
+#startGame {
+  width: 360px;
+  height: 40px;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+#howToPlay {
+  width: 360px;
+  height: 40px;
+  background-color: #008CBA; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+body {
+  margin: 25px
+}
